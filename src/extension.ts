@@ -56,7 +56,7 @@ export function activate(context: vscode.ExtensionContext) {
 					if (currentLanguage === "markdown") {
 						editor?.edit(editBuilder => {
 							editBuilder.replace(currentSelection,
-								`[${markdownEscape(text)}](${url} "${markdownEscape(summary)}")`
+								`[${markdownEscape(text)}](${url})`
 							);
 						});
 					} else if (currentLanguage === "html" || currentLanguage === "jinja") {
@@ -78,7 +78,7 @@ export function activate(context: vscode.ExtensionContext) {
 							} else if (answer === "Use Markdown") {
 								editor?.edit(editBuilder => {
 									editBuilder.replace(currentSelection,
-										`[${markdownEscape(text)}](${url} "${markdownEscape(summary)}")`
+										`[${markdownEscape(text)}](${url})`
 									);
 								});
 							}
