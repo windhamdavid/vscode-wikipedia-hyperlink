@@ -7,3 +7,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+## windhamdavid.wikipedia-hyperlinker-0.1.0
+
+- (fork) removed the hyperlink summary
