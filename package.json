@@ -1,8 +1,8 @@
 {
-  "name": "wikipedia-hyperlinker",
+  "name": "wikipedia-link",
   "author": "windhamdavid (forked from - https://wasi-master.github.io)",
   "publisher": "windhamdavid",
-  "displayName": "Wikipedia Hyperlinker",
+  "displayName": "Wikipedia Link",
   "description": "Adds Wikipedia hyperlinks to markdown and HTML",
   "homepage": "https://github.com/windhamdavid/vscode-wikipedia-hyperlink#readme",
   "version": "0.1.2",
