@@ -4,11 +4,11 @@
   "publisher": "windhamdavid",
   "displayName": "Wikipedia Link",
   "description": "Adds Wikipedia hyperlinks to markdown and HTML",
-  "homepage": "https://github.com/windhamdavid/vscode-wikipedia-hyperlink#readme",
+  "homepage": "https://github.com/windhamdavid/vscode-wikipedia-link#readme",
   "version": "0.1.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/windhamdavid/vscode-wikipedia-hyperlink.git"
+    "url": "https://github.com/windhamdavid/vscode-wikipedia-link.git"
   },
   "engines": {
     "vscode": "^1.95.3"
@@ -25,13 +25,13 @@
   ],
   "badges": [
     {
-      "url": "https://img.shields.io/github/license/windhamdavid/vscode-wikipedia-hyperlink",
-      "href": "https://github.com/windhamdavid/vscode-wikipedia-hyperlink",
+      "url": "https://img.shields.io/github/license/windhamdavid/vscode-wikipedia-link",
+      "href": "https://github.com/windhamdavid/vscode-wikipedia-link",
       "description": "License of the source code"
     }
   ],
   "activationEvents": [
-    "onCommand:wikipedia-hyperlinker.addHyperlink"
+    "onCommand:wikipedia-link.addHyperlink"
   ],
   "main": "./dist/extension.js",
   "contributes": {
