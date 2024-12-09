@@ -11,7 +11,7 @@ export function activate(context: vscode.ExtensionContext) {
 
 
 
-	let disposable = vscode.commands.registerCommand('wikipedia-hyperlinker.addHyperlink', () => {
+	let disposable = vscode.commands.registerCommand('wikipedia-link.addHyperlink', () => {
 
 		var editor = vscode.window.activeTextEditor;
 		if (editor !== undefined) {
