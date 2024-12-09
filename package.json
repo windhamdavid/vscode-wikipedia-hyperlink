@@ -5,6 +5,7 @@
   "displayName": "Wikipedia Link",
   "description": "Adds Wikipedia hyperlinks to markdown and HTML",
   "homepage": "https://github.com/windhamdavid/vscode-wikipedia-link#readme",
+  "icon": "wikipedia.png",
   "version": "0.1.3",
   "repository": {
     "type": "git",
