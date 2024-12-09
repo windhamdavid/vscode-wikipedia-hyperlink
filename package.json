@@ -5,7 +5,7 @@
   "displayName": "Wikipedia Link",
   "description": "Adds Wikipedia hyperlinks to markdown and HTML",
   "homepage": "https://github.com/windhamdavid/vscode-wikipedia-link#readme",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/windhamdavid/vscode-wikipedia-link.git"
@@ -37,8 +37,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "wikipedia-hyperlinker.addHyperlink",
-        "title": "Wikipedia Hyperlinker: Add Hyperlink"
+        "command": "wikipedia-link.addHyperlink",
+        "title": "Wikipedia: add link"
       }
     ]
   },
