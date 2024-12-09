@@ -3,15 +3,15 @@
   "author": "windhamdavid (forked from - https://wasi-master.github.io)",
   "publisher": "windhamdavid",
   "displayName": "Wikipedia Hyperlinker",
-  "description": "Adds hyperlinks to markdown and HTML files with articles gotten from Wikipedia",
-  "homepage": "https://github.com/wasi-master/wikipedia-hyperlink#readme",
-  "version": "0.0.2",
+  "description": "Adds Wikipedia hyperlinks to markdown and HTML",
+  "homepage": "https://github.com/windhamdavid/vscode-wikipedia-hyperlink#readme",
+  "version": "0.1.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/windhamdavid/vscode-wikipedia-hyperlink.git"
   },
   "engines": {
-    "vscode": "^1.68.0"
+    "vscode": "^1.95.3"
   },
   "categories": [
     "Other"
@@ -25,13 +25,8 @@
   ],
   "badges": [
     {
-      "url": "https://img.shields.io/github/stars/wasi-master/vscode-wikipedia-hyperlink?style=social",
-      "href": "https://github.com/wasi-master/vscode-wikipedia-hyperlink",
-      "description": "Amount of stars gotten on GitHub"
-    },
-    {
-      "url": "https://img.shields.io/github/license/wasi-master/vscode-wikipedia-hyperlink",
-      "href": "https://github.com/wasi-master/vscode-wikipedia-hyperlink",
+      "url": "https://img.shields.io/github/license/windhamdavid/vscode-wikipedia-hyperlink",
+      "href": "https://github.com/windhamdavid/vscode-wikipedia-hyperlink",
       "description": "License of the source code"
     }
   ],
